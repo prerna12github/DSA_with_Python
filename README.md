@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
+| [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prerna12github/DSA_with_Python/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
