@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/prerna12github/DSA_with_Python/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
