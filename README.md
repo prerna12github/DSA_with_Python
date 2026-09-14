@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prerna12github/DSA_with_Python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prerna12github/DSA_with_Python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prerna12github/DSA_with_Python/tree/master/1539-kth-missing-positive-number) |
+| [2643-row-with-maximum-ones](https://github.com/prerna12github/DSA_with_Python/tree/master/2643-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/prerna12github/DSA_with_Python/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
