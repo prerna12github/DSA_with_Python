@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prerna12github/DSA_with_Python/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/prerna12github/DSA_with_Python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
