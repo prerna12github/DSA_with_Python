@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
