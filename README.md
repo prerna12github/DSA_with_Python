@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prerna12github/DSA_with_Python/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/prerna12github/DSA_with_Python/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/prerna12github/DSA_with_Python/tree/master/3870-count-commas-in-range) |
@@ -165,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0029-divide-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prerna12github/DSA_with_Python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
