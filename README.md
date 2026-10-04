@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/prerna12github/DSA_with_Python/tree/master/0260-single-number-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/prerna12github/DSA_with_Python/tree/master/0424-longest-repeating-character-replacement) |
@@ -78,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0992-subarrays-with-k-different-integers) |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prerna12github/DSA_with_Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
