@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/prerna12github/DSA_with_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prerna12github/DSA_with_Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prerna12github/DSA_with_Python/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
