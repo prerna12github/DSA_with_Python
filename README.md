@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prerna12github/DSA_with_Python/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/prerna12github/DSA_with_Python/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prerna12github/DSA_with_Python/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0930-binary-subarrays-with-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/prerna12github/DSA_with_Python/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/prerna12github/DSA_with_Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
