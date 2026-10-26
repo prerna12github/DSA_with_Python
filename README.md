@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/prerna12github/DSA_with_Python/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/prerna12github/DSA_with_Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/prerna12github/DSA_with_Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/prerna12github/DSA_with_Python/tree/master/0496-next-greater-element-i) |
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -200,10 +205,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
@@ -273,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
