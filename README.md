@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 ## Manacher
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prerna12github/DSA_with_Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prerna12github/DSA_with_Python/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
