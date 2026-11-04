@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prerna12github/DSA_with_Python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prerna12github/DSA_with_Python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prerna12github/DSA_with_Python/tree/master/1539-kth-missing-positive-number) |
+| [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1901-find-a-peak-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2104-sum-of-subarray-ranges](https://github.com/prerna12github/DSA_with_Python/tree/master/2104-sum-of-subarray-ranges) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1331-rank-transform-of-an-array) |
+| [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 ## Counting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
