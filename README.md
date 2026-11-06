@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0410-split-array-largest-sum) |
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
+| [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/prerna12github/DSA_with_Python/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/prerna12github/DSA_with_Python/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
