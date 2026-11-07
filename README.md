@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2104-sum-of-subarray-ranges](https://github.com/prerna12github/DSA_with_Python/tree/master/2104-sum-of-subarray-ranges) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prerna12github/DSA_with_Python/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2643-row-with-maximum-ones](https://github.com/prerna12github/DSA_with_Python/tree/master/2643-row-with-maximum-ones) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prerna12github/DSA_with_Python/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prerna12github/DSA_with_Python/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
