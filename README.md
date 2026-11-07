@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2104-sum-of-subarray-ranges](https://github.com/prerna12github/DSA_with_Python/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/prerna12github/DSA_with_Python/tree/master/2643-row-with-maximum-ones) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
