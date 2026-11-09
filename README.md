@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prerna12github/DSA_with_Python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0137-single-number-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0229-majority-element-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prerna12github/DSA_with_Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0240-search-a-2d-matrix-ii) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -327,5 +331,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
