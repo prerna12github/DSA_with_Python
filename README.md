@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [1901-find-a-peak-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/prerna12github/DSA_with_Python/tree/master/2104-sum-of-subarray-ranges) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prerna12github/DSA_with_Python/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2643-row-with-maximum-ones](https://github.com/prerna12github/DSA_with_Python/tree/master/2643-row-with-maximum-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1331-rank-transform-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
+| [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prerna12github/DSA_with_Python/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Divide and Conquer
 |  |
