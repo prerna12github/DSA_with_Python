@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/prerna12github/DSA_with_Python/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/prerna12github/DSA_with_Python/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0930-binary-subarrays-with-sum) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/prerna12github/DSA_with_Python/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prerna12github/DSA_with_Python/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prerna12github/DSA_with_Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/prerna12github/DSA_with_Python/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
