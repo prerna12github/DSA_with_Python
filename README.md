@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/prerna12github/DSA_with_Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prerna12github/DSA_with_Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prerna12github/DSA_with_Python/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prerna12github/DSA_with_Python/tree/master/0078-subsets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/prerna12github/DSA_with_Python/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/prerna12github/DSA_with_Python/tree/master/0509-fibonacci-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/prerna12github/DSA_with_Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prerna12github/DSA_with_Python/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prerna12github/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 ## Manacher
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prerna12github/DSA_with_Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/0503-next-greater-element-ii) |
