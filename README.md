@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/prerna12github/DSA_with_Python/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/prerna12github/DSA_with_Python/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0930-binary-subarrays-with-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/prerna12github/DSA_with_Python/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prerna12github/DSA_with_Python/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/prerna12github/DSA_with_Python/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1331-rank-transform-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
 | [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/prerna12github/DSA_with_Python/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/prerna12github/DSA_with_Python/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prerna12github/DSA_with_Python/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/prerna12github/DSA_with_Python/tree/master/3870-count-commas-in-range) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0410-split-array-largest-sum) |
 | [0846-hand-of-straights](https://github.com/prerna12github/DSA_with_Python/tree/master/0846-hand-of-straights) |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -349,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
