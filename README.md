@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/prerna12github/DSA_with_Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/prerna12github/DSA_with_Python/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/prerna12github/DSA_with_Python/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/prerna12github/DSA_with_Python/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/prerna12github/DSA_with_Python/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prerna12github/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/prerna12github/DSA_with_Python/tree/master/0443-string-compression) |
 ## Manacher
 |  |
 | ------- |
