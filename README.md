@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/prerna12github/DSA_with_Python/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/prerna12github/DSA_with_Python/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/prerna12github/DSA_with_Python/tree/master/0424-longest-repeating-character-replacement) |
