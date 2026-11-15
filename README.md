@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prerna12github/DSA_with_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/prerna12github/DSA_with_Python/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prerna12github/DSA_with_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
