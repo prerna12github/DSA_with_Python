@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/prerna12github/DSA_with_Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prerna12github/DSA_with_Python/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prerna12github/DSA_with_Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/prerna12github/DSA_with_Python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prerna12github/DSA_with_Python/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/prerna12github/DSA_with_Python/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/prerna12github/DSA_with_Python/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/prerna12github/DSA_with_Python/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/prerna12github/DSA_with_Python/tree/master/0976-largest-perimeter-triangle) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prerna12github/DSA_with_Python/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/prerna12github/DSA_with_Python/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/prerna12github/DSA_with_Python/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/prerna12github/DSA_with_Python/tree/master/0205-isomorphic-strings) |
