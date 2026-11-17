@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prerna12github/DSA_with_Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1405-longest-happy-string) |
+| [1544-make-the-string-great](https://github.com/prerna12github/DSA_with_Python/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prerna12github/DSA_with_Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/prerna12github/DSA_with_Python/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/prerna12github/DSA_with_Python/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/prerna12github/DSA_with_Python/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/prerna12github/DSA_with_Python/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
