@@ -1,35 +1,41 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
         n = len(nums)
-        first = -1
-        last = -1
-        low = 0
-        high = n-1
-        while(low<=high):
-            mid = (low+high)//2
-            if nums[mid]  == target:
-                first = mid
-                high = mid -1
-            elif nums[mid] < target:
-                low = mid +1
-            else :
-                high = mid -1
+        left_most = self.search_left(nums,target,n)
+        right_most = self.search_right(nums,target,n)
+        return [left_most,right_most]
 
-        left = 0
-        right = len(nums) - 1
-
-      
-        while left <= right:
-
-            mid = (left + right) // 2
-
+    def search_left(self,nums,target,n):
+        l = 0
+        r = n-1
+        left_most = -1
+        while(l<=r):
+            mid = l+ (r-l)//2
             if nums[mid] == target:
-                last = mid
-                left = mid + 1
-
+                left_most = mid
+                r = mid-1
             elif nums[mid] < target:
-                left = mid + 1
-
+                l = mid+1
             else:
-                right = mid - 1                
-        return [first,last]
+                r = mid-1
+        return left_most    
+
+    def search_right(self,nums,target,n):
+        l = 0
+        r = n-1
+        right_most = -1
+        while(l<=r):
+            mid = l+ (r-l)//2
+            if nums[mid] == target:
+                right_most = mid
+                l = mid+1
+            elif nums[mid] < target:
+                l = mid+1
+            else:
+                r = mid-1
+        return right_most                   
+
+
+
+
+        
