@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-make-the-string-great](https://github.com/prerna12github/DSA_with_Python/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prerna12github/DSA_with_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prerna12github/DSA_with_Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/prerna12github/DSA_with_Python/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prerna12github/DSA_with_Python/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prerna12github/DSA_with_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/prerna12github/DSA_with_Python/tree/master/1903-largest-odd-number-in-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/prerna12github/DSA_with_Python/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/prerna12github/DSA_with_Python/tree/master/0443-string-compression) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/prerna12github/DSA_with_Python/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Manacher
 |  |
