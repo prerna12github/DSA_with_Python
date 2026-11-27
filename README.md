@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/prerna12github/DSA_with_Python/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prerna12github/DSA_with_Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1834-single-threaded-cpu](https://github.com/prerna12github/DSA_with_Python/tree/master/1834-single-threaded-cpu) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/prerna12github/DSA_with_Python/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prerna12github/DSA_with_Python/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prerna12github/DSA_with_Python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prerna12github/DSA_with_Python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prerna12github/DSA_with_Python/tree/master/1539-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/prerna12github/DSA_with_Python/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/prerna12github/DSA_with_Python/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/prerna12github/DSA_with_Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/prerna12github/DSA_with_Python/tree/master/0443-string-compression) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/prerna12github/DSA_with_Python/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/prerna12github/DSA_with_Python/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prerna12github/DSA_with_Python/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Manacher
 |  |
